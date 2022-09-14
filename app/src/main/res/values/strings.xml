@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">calculadora2</string>
+    <string name="textview">Nombre</string>
+    <string name="textview2">Contraseña</string>
+    <string name="edittext1">Escriba su nombre</string>
+    <string name="edittext2">Escriba su contraseña</string>
+    <string name="button1">Ingresar</string>
+    <string name="textview3">Hola</string>
+    <string name="radiobutton1">Hombre</string>
+    <string name="radiobutton2">Mujer</string>
+</resources>
